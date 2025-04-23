@@ -1,5 +1,7 @@
 # 🌙 我的 Neovim 高效低负载配置
 
+[中文文档](https://github.com/Horoaw/nvim-config/blob/main/chinese_README.me) | [englisg_readme](https://github.com/Horoaw/nvim-config/blob/main/README.md)
+
 这是我个人的 Neovim 配置，追求**启动快、补全准、界面简洁**，专为 Rust 和 Python 开发优化，同时保持低资源占用。
 
 ## 🔧 功能特色
