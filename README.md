@@ -29,7 +29,8 @@ This is my personal Neovim configuration, designed for **performance**, **clarit
 
 ## 🖼️ Screenshot
 
-> (Add a screenshot here if you’d like)
+> ![image](https://github.com/user-attachments/assets/b6ba34cd-f005-42c3-a4fb-d65fc0b03637)
+
 
 ## 🛠️ Installation
 
