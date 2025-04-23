@@ -1,5 +1,8 @@
 # 🌙 My Minimal & Efficient Neovim Setup
 
+[中文文档](https://github.com/Horoaw/nvim-config/blob/main/chinese_README.me) | [englisg_readme](https://github.com/Horoaw/nvim-config/blob/main/README.md)
+
+
 This is my personal Neovim configuration, designed for **performance**, **clarity**, and **productivity**, with special focus on Rust and Python development.
 
 ## 🔧 Features
