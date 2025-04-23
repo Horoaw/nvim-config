@@ -34,5 +34,5 @@
 ## 🛠️ 安装方式
 
 ```bash
-git clone https://github.com/your-username/nvim-config ~/.config/nvim
+git clone https://github.com/Horoaw/nvim-config.git ~/.config/nvim
 nvim
